@@ -1,0 +1,4 @@
+Name - Lena
+Age - 28
+Pets - 0
+Salary - 1500usd
