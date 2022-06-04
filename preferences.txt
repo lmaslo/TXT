@@ -1,0 +1,5 @@
+  favorite film - Inception,
+  favorite series - The Big Bang Theory,
+  favorite meal - Berries,
+  favorite season - Summer,
+  contry-Canada
