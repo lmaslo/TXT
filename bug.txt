@@ -1,0 +1,12 @@
+name - name_bug
+precondition - precondition
+environment - environment
+steps 
+   step 1
+   step 2
+   step 3
+   
+actual result - actual result
+expected result - expected result
+
+attach - attach
